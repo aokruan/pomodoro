@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pomodoro</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="make_post">Make post</string>
 </resources>
